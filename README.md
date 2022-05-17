@@ -36,7 +36,7 @@
 ### Cursos con certificación gratuita
 * https://www.freecodecamp.org/ - Cursos front-end, back-end y full-stack, también sobre python, bases de datos y ciberseguridad 
 * https://fullstackopen.com/ - Curso full-stack
-
+* https://mygreatlearning.com/ - Cursos certificados sobre temas variados, tales como DevOps, ciberseguridad, excel. 
 
 ## Deploy y hostings
  * https://www.heroku.com/ - hosting y deploy NodeJS, Ruby, Python, Java, PHP, Go y más
