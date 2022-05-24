@@ -31,6 +31,7 @@
 * https://pixabay.com/ - Imagenes de uso libre
 * https://coolors.co/ - Generador de paletas de colores
 * https://colorhunt.co/ - Paletas de colores
+* www.hyperui.dev/ - Componentes open source de TailwindCSS
 
 
 ### Cursos con certificación gratuita
