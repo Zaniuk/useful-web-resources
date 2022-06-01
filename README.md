@@ -24,6 +24,7 @@
 * https://cssgenerator.org/ - Generador de varias propiedades CSS
 
 ### Recursos web 
+* https://apitracker.io/ - Un buscador de APIs
 * https://icones.js.org/ - Una colección de muchísimos íconos 
 * https://www.glyphicons.com/ - Una colección de iconos 
 * https://fontawesome.com/ - Una colección de iconos
@@ -38,6 +39,7 @@
 * https://www.freecodecamp.org/ - Cursos front-end, back-end y full-stack, también sobre python, bases de datos y ciberseguridad 
 * https://fullstackopen.com/ - Curso full-stack
 * https://mygreatlearning.com/ - Cursos certificados sobre temas variados, tales como DevOps, ciberseguridad, excel. 
+* https://open-bootcamp.com/ - Bootcamp gratuito con especialización en front-end, back-end y full-stack
 ### Cursos sin certificación 
 * https://javascript.info/ Javascript moderno, desde lo básico a lo más avanzado
 ## Deploy y hostings
