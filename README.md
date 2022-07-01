@@ -34,7 +34,7 @@
 * https://colorhunt.co/ - Paletas de colores
 * www.hyperui.dev/ - Componentes open source de TailwindCSS
 
-###Cheatsheets
+### Cheatsheets
 * https://gitsheet.wtf/ - lista de comandos de Git
 * https://losapuntesdemajo.vercel.app/ - apuntes sobre distintas tecnologías y lenguajes
 
