@@ -34,6 +34,9 @@
 * https://colorhunt.co/ - Paletas de colores
 * www.hyperui.dev/ - Componentes open source de TailwindCSS
 
+###Cheatsheets
+* https://gitsheet.wtf/ - lista de comandos de Git
+* https://losapuntesdemajo.vercel.app/ - apuntes sobre distintas tecnologías y lenguajes
 
 ### Cursos con certificación gratuita
 * https://www.freecodecamp.org/ - Cursos front-end, back-end y full-stack, también sobre python, bases de datos y ciberseguridad 
