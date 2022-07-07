@@ -18,6 +18,7 @@
 * https://devdocs.io/ - documentación y cheatsheet de muchas tecnologías 
 * https://devhints.io/ - documentación y cheatsheet de muchas tecnologías 
 * https://cssreference.io/ - documentación y cheatsheet de CSS con ejemplos graficos
+* https://defensivecss.dev/tips/ - tips para escribir CSS que no se rompa facilmente
 
 ### Herramientas 
 * https://responsively.app/ - Un navegador que nos ayuda a diseñar de manera adaptable
